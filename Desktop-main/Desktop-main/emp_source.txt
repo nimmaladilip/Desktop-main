@@ -1,0 +1,6 @@
+eno,ename,sal,deptno
+E01,Rahul,20000,10
+E02,Fizal,30000,20
+E03,Kranthi,28000,30
+E04,Tuni,25000,20
+E05,Kyle,29000,20
